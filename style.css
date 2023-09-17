@@ -1,0 +1,23 @@
+body {
+  background-color: #f5f5dc;
+  height: 100vh;
+}
+
+.date {
+  margin: 0 auto;
+  text-align: center;
+  padding: 20px;
+  width: 360px;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 40px;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.date__title {
+  text-decoration: 2px solid #000000;
+}
+
+.date__icon {
+  margin: 20px;
+}
